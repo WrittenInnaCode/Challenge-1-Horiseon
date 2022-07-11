@@ -11,5 +11,5 @@ User can find deployed app at [https://writteninnacode.github.io/Challenge-1-Hor
 
 ![alt screen shot](./assets/images/Screenshot%20Challenge-1.png)
 
-
+The repo can be found at [https://github.com/WrittenInnaCode/Challenge-1-Horiseon/](https://github.com/WrittenInnaCode/Challenge-1-Horiseon/)
 
